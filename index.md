@@ -3,7 +3,7 @@
 Benvenuti nella pagina ufficiale della nostra squadra di calcio a 11!  
 Siamo un gruppo di amici uniti dalla passione per il calcio, lo spirito di squadra e il divertimento, mangiare bene 🍔 e bere meglio 🍻
 
-➡️ [[Privacy Policy]]
+➡️ [Privacy Policy](/PrivacyPolicy.md)
 
 ---
 
