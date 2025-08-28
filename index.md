@@ -7,7 +7,9 @@ Siamo un gruppo di amici uniti dalla passione per il calcio, lo spir
 
 ## 📍Dove giochiamo
 **Campo Sportivo Comunale Biandrate**
+
 Via San Giacomo, 17 - 28061 Biandrate (NO)
+
 [Link to Google Maps](https://maps.app.goo.gl/t4rNgvMmTYKHjhHQ7)
 
 ---
